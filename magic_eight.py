@@ -13,3 +13,6 @@ def check_question(ques):
 
 question = get_question()
 
+while(get_question() != "quit"):
+  pass
+
