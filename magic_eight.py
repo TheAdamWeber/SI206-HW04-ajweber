@@ -33,5 +33,5 @@ def answers():
 question = get_question()
 
 while(get_question() != "quit"):
-  pass
+  print(answers())
 
